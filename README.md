@@ -3,7 +3,9 @@ Password Scanner : check if your Password on 2024-2025 hacked passwords list
 - This project created by visual studio C#  language 
 
 - I would be honored if you would try my project. :💘
-also i will share all my projects  for this module for learning purpose 
+also i will share all my projects  for this module for learning purpose
+
+for now i dont have a vision to develop this tool or add another features .
 
  -Duha Alrawahi Computer science  student at Middle East College 💻
 
